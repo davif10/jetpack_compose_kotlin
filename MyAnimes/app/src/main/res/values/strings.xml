@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Animes</string>
+    <string name="animes_world">Animes World</string>
+    <string name="characters">Characters</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+
+    <string name="son_goku">Son Goku</string>
+    <string name="light_yagami">Light Yagami</string>
+    <string name="monkey_d_luffy">Monkey D. Luffy</string>
+    <string name="naruto_uzumaki">Uzumaki Naruto</string>
+    <string name="natsu_dragneel">Natsu Dragneel</string>
+    <string name="seiya_pegaso">Seiya de Pégaso</string>
+    <string name="kurosaki_ichigo">Kurosaki Ichigo</string>
+    <string name="yami_yugi">Yami Yugi</string>
+
+    <string name="konoha">Konoha</string>
+    <string name="soul_society_seireitei">Soul Society - Seireitei</string>
+    <string name="toon_world">Toon World</string>
+    <string name="mr_kaioh_planet">Mr Kaioh s Planet</string>
+    <string name="marineford">Marineford</string>
+    <string name="guild_fairy_tail">Guild Fairy Tail</string>
+    <string name="zodiac_houses">Zodiac Houses</string>
+    <string name="dueling_arena">Dueling Arena</string>
+</resources>
