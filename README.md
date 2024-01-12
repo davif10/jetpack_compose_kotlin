@@ -6,6 +6,8 @@
 
 ### Projeto Fruitvyce
 Utilizando LiveData, Hilt, Coroutine, Retrofit, MVVM.
+
+
 ![](https://github.com/davif10/jetpack_compose_kotlin/blob/main/fruityvice.png)
 
 ### Projeto Compose Tutorial
